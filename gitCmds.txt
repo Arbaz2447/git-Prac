@@ -1,0 +1,25 @@
+making a folder into repo
+
+navigate to that folder in terminal -> git init 
+to track which files are updated or to get status -> git status 
+
+to clone some repo into local system -> git clone https://github.com/Nani4481/Codechef-website sakethWeb    || git clone url FolderName to be saved in pwd 
+
+Note : parent folder if we make it repo then sub folders are also a repo ! 
+changed files / modified files are also vieweed by -> git status
+
+to verify what changes are actually made -> git diff 
+
+3 environment in git temp area ( all temp changes are made here) , 
+                staging index (about to commit ) -> git add filename
+                repo area (permanent changes) -> git commit
+
+to commit -> git commit -m "message"
+
+to get recent commits or commit ids / details -> git log  or git log -5 
+in detail for all commits with git diff-> git log -p
+
+for simple one line  just commit id and message -> git log --oneline
+
+for in detail for specific commit , what changes are made in file -> git show cmtid
+for file change count , how many files are changed , Number of lines changed -> git log --stat
