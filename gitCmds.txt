@@ -23,3 +23,53 @@ for simple one line  just commit id and message -> git log --oneline
 
 for in detail for specific commit , what changes are made in file -> git show cmtid
 for file change count , how many files are changed , Number of lines changed -> git log --stat
+
+
+
+git add -> old files sends to staging index // new files starts tracking !
+git restore file_name -> restores to recent commit ,to Recent -> head
+
+
+git branch -> shows branches 
+git branch branch_name -> creates new branch
+git checkout branch_name ->  moves to branch_name
+
+git checkout -p branch_name -> creates and moves to new branch !
+git commit -am "msg" -> for new file add and commit ! 
+
+git merge branch_name -> merges if done in master 
+git branch -d branch_name -> delete branch after merge 
+
+to verify some merge conflict we manually solve and then later -> git add file_name , later commit 
+
+
+git tag -a TAG_NAME sha_id -m "msg" -> add tag to some branch 
+git tag -d TAG_NAME -> remove tag
+
+
+
+
+
+
+
+GIT STASH :
+
+  You written some code and want to merge  with master , 
+    in order to do that you need current updated codebase ! you need to pull that first 
+    -----> git pull
+if you have any unsaved/ files you cannot pull , eaither stash them or commit them 
+
+stash area is temp area , you store your code and pull latest code and unstash
+-----> git stash apply  later merge conflict then ----->git add in order to staging idx ! 
+
+
+after conflicts push into remote
+git push -u origin master 
+
+
+Remove file from staging index (but keep changes)
+git restore --staged filename
+
+
+Git Stash vs commit in pull :
+you save the worked data in branch (local) and you have 2 options , -> 1 . stash them  pull and apply the worked changes (not saved )them on latest remote data  and reslove .  -> 2 .  commit (worked temp  changes) you commit and pull and later merge ! when you are sure abt worked data you commit and pull , when unsure stash and pull ! 
