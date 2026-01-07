@@ -1,0 +1,550 @@
+﻿Platform Name: SmartLearn
+
+
+
+
+1. Platform Overview
+SmartLearn is an online EdTech platform that provides structured, self-paced professional courses. The platform focuses on clear learning workflows, transparent assessment rules, progress visibility, and automated certification.
+SmartLearn is designed to help learners understand how learning progresses, how assessments work, and how certificates are earned, without providing assessment answers or academic tutoring.
+
+
+2. Available Courses on SmartLearn
+SmartLearn currently offers the following courses:
+Full Stack Web Development
+Data Structures & Algorithms
+Python for Beginners
+Introduction to Cloud Computing
+Each course follows a standardized structure for consistency and clarity.
+
+
+3. Course Structure (Common Across All Courses)
+Each course is divided into Modules
+Each module contains multiple Lessons
+Lessons include:
+Video lectures
+Reading materials
+Practice quizzes
+Modules must be completed in order
+Quizzes are mandatory to unlock the next module
+4. Course Details
+
+
+Course 1: Full Stack Web Development
+Course Description:
+This course introduces learners to front-end and back-end web development concepts and workflows.
+Modules & Lessons
+Module 1: Web Fundamentals
+Lesson 1: Introduction to the Web
+Lesson 2: HTML Basics
+Lesson 3: CSS Basics
+Module Quiz 1
+Module 2: Front-End Development
+Lesson 1: JavaScript Basics
+Lesson 2: Responsive Design
+Lesson 3: Front-End Project Overview
+Module Quiz 2
+Module 3: Back-End Development
+Lesson 1: Server-Side Concepts
+Lesson 2: APIs and Databases
+Lesson 3: Backend Architecture Basics
+Module Quiz 3
+Final Assessment: Required for certification
+
+
+
+
+📗 Course 2: Data Structures & Algorithms
+Course Description:
+This course explains how programming problems are structured and evaluated using data structures.
+Modules & Lessons
+Module 1: Programming Foundations
+Lesson 1: Time and Space Complexity
+Lesson 2: Basic Data Structures Overview
+Module Quiz 1
+Module 2: Linear Data Structures
+Lesson 1: Arrays
+Lesson 2: Linked Lists
+Lesson 3: Stacks and Queues
+Module Quiz 2
+Module 3: Trees and Graphs
+Lesson 1: Tree Basics
+Lesson 2: Graph Fundamentals
+Module Quiz 3
+Final Assessment: Required for certification
+
+
+
+
+ Course 3: Python for Beginners
+Course Description:
+This course introduces learners to Python programming and basic software development workflows.
+Modules & Lessons
+Module 1: Python Basics
+Lesson 1: Python Syntax
+Lesson 2: Variables and Data Types
+Lesson 3: Control Flow
+Module Quiz 1
+Module 2: Functions and Modules
+Lesson 1: Functions
+Lesson 2: Modules and Packages
+Module Quiz 2
+Final Assessment: Required for certification
+
+
+
+
+ Course 4: Introduction to Cloud Computing
+Course Description:
+This course explains cloud concepts and service models at a conceptual level.
+Modules & Lessons
+Module 1: Cloud Fundamentals
+Lesson 1: What is Cloud Computing
+Lesson 2: Cloud Service Models
+Module Quiz 1
+Module 2: Cloud Deployment Models
+Lesson 1: Public Cloud
+Lesson 2: Private Cloud
+Lesson 3: Hybrid Cloud
+Module Quiz 2
+Final Assessment: Required for certification
+5. Learning Workflow
+Learner enrolls in a course
+First module becomes available
+Lessons within the module are completed
+Module quiz is attempted
+On passing the quiz, the next module unlocks
+Final assessment becomes available after all modules are completed
+6. Assessments (Process Only)
+Quiz Rules
+Each module has one mandatory quiz
+Minimum passing score: 60%
+Maximum attempts per quiz: 3
+Quiz attempts are tracked automatically
+
+
+Final Assessment
+Required for course completion
+Available only after all modules are completed
+Passing is mandatory for certification
+Assessment Limitations
+Answers and solutions are not provided in documentation
+No hints, grading rubrics, or sample responses are shared
+7. Progress Tracking
+Learners can view progress from the SmartLearn Dashboard.
+Dashboard Displays
+Enrolled courses
+Completed lessons
+Completed modules
+Quiz status (passed / not passed)
+Overall course completion percentage
+Completion Logic
+Lessons must be viewed to count as completed
+Modules are completed only after quiz pass
+Course completion requires all modules and final assessment
+8. Certification Workflow
+Certificate Eligibility
+Certificates are issued only after:
+All modules are completed
+All module quizzes are passed
+Final assessment is cleared
+Certificate Generation
+Certificates are auto-generated
+Generated within 24 hours after course completion
+Linked to the learner’s account
+Certificate Access
+Available in the Certificates / Achievements section
+Can be downloaded after issuance
+
+
+
+
+9. Platform Navigation
+Dashboard
+View enrolled courses
+Track progress
+Access active modules
+Course Page
+View module list
+See locked and unlocked modules
+Access lessons and quizzes
+Assessments Section
+View quiz attempt status
+Access final assessment (when unlocked)
+Certificates Section
+View and download certificates
+10. Platform Limitations
+SmartLearn does not provide:
+Quiz answers or solutions
+Assignment hints
+Personalized learning advice
+Assessment grading explanations beyond pass/fail rules
+
+
+
+
+11. Documentation Scope
+This document is the only authoritative source for:
+Course structures
+Learning workflows
+Assessment rules
+Progress tracking
+Certification process
+Any information not mentioned here is out oDevelopment. 
+
+
+
+
+Course 1: Full Stack Web Development
+Course Overview
+Course Name: Full Stack Web Development
+This course is designed to help learners understand the end-to-end workflow of modern web application development. The course covers both front-end and back-end concepts and explains how different components of a web application interact.
+The course follows a structured, module-based learning approach and requires learners to complete mandatory assessments to progress.
+Course Duration & Structure
+Total Modules: 3
+Learning Mode: Self-paced
+Module Access: Sequential
+Final Assessment: Mandatory for certification
+Module Breakdown
+🔹 Module 1: Web Fundamentals
+Module Objective:
+Introduce learners to the foundational concepts of how the web works and how basic web pages are created.
+Lessons Included
+Lesson 1: Introduction to the Web
+Overview of how websites function
+Explanation of browsers and servers
+Basic request–response workflow
+Lesson 2: HTML Basics
+Structure of a web page
+Common HTML elements
+Page layout fundamentals
+Lesson 3: CSS Basics
+Purpose of CSS
+Styling web pages
+Basic layout and formatting concepts
+Module Assessment
+Module Quiz 1
+Quiz is mandatory to unlock Module 2
+Passing criteria and attempt limits follow platform-wide assessment rules
+🔹 Module 2: Front-End Development
+Module Objective:
+Explain how interactive and responsive user interfaces are built on top of basic web pages.
+Lessons Included
+Lesson 1: JavaScript Basics
+Role of JavaScript in web development
+Client-side scripting concepts
+Interaction with web page elements
+Lesson 2: Responsive Design
+Importance of responsive layouts
+Designing for multiple screen sizes
+User experience considerations
+Lesson 3: Front-End Project Overview
+High-level overview of a front-end application
+How HTML, CSS, and JavaScript work together
+Typical front-end development workflow
+Module Assessment
+Module Quiz 2
+Quiz must be passed to unlock Module 3
+Attempts and passing rules apply as defined in platform documentation
+🔹 Module 3: Back-End Development
+Module Objective:
+Provide an understanding of how server-side systems support front-end applications.
+Lessons Included
+Lesson 1: Server-Side Concepts
+Role of servers in web applications
+Request handling at a high level
+Separation of front-end and back-end responsibilities
+Lesson 2: APIs and Databases
+Purpose of APIs
+Data storage concepts
+Interaction between servers and databases
+Lesson 3: Backend Architecture Basics
+Overview of typical backend architectures
+How backend services support application features
+Scalability and maintainability concepts
+Module Assessment
+Module Quiz 3
+Completion is required to unlock the final assessment
+Final Assessment (Course Level)
+The Final Assessment becomes available only after:
+All modules are completed
+All module quizzes are passed
+Clearing the final assessment is mandatory for course completion
+Assessment content and solutions are not provided in documentation
+Progress Tracking (Course-Specific)
+For the Full Stack Web Development course, learners can track:
+Lesson completion for each module
+Quiz pass/fail status per module
+Module completion status
+Final assessment completion
+Overall course completion percentage
+Progress updates automatically as learners complete lessons and assessments.
+Certification Eligibility (Course-Specific)
+Learners become eligible for the Full Stack Web Development Certificate only after:
+Completing all three modules
+Passing all three module quizzes
+Successfully clearing the final assessment
+Certificate generation follows the platform’s standard certification workflow.
+Course Limitations
+For this course:
+Quiz questions and answers are not disclosed
+No hints or solutions are provided
+No personalized project feedback is available
+Evaluation details beyond pass/fail are not shared
+Course Documentation Scope
+This section provides the complete workflow documentation for the Full Stack Web Development course.
+Any information not explicitly stated here is considered out of scope.
+
+
+
+
+
+
+Course 2: Data Structures & Algorithms
+Course Overview
+Course Name: Data Structures & Algorithms
+This course is designed to help learners understand how data is organized, processed, and evaluated in programming workflows. The focus is on conceptual clarity of data structures and algorithmic thinking rather than problem solving or code-level implementation details.
+The course follows a structured, module-based learning workflow with mandatory assessments required for progression.
+Course Duration & Structure
+Total Modules: 3
+Learning Mode: Self-paced
+Module Access: Sequential
+Final Assessment: Mandatory for certification
+Module Breakdown
+🔹 Module 1: Programming Foundations
+Module Objective:
+Introduce learners to the foundational concepts required to understand how programs are evaluated and optimized.
+Lessons Included
+Lesson 1: Time and Space Complexity
+Purpose of performance analysis
+Conceptual meaning of time complexity
+Conceptual meaning of space complexity
+Lesson 2: Basic Data Structures Overview
+What data structures are
+Why different data structures exist
+High-level comparison of common data structures
+Module Assessment
+Module Quiz 1
+Quiz completion is mandatory to unlock Module 2
+Assessment rules follow platform-wide standards
+🔹 Module 2: Linear Data Structures
+Module Objective:
+Explain linear data structures and how data is stored and accessed sequentially.
+Lessons Included
+Lesson 1: Arrays
+Concept of contiguous memory storage
+Use cases for arrays
+Advantages and limitations of arrays
+Lesson 2: Linked Lists
+Concept of node-based data storage
+Differences between arrays and linked lists
+Basic traversal concepts
+Lesson 3: Stacks and Queues
+Stack workflow (LIFO concept)
+Queue workflow (FIFO concept)
+Common use cases at a conceptual level
+Module Assessment
+Module Quiz 2
+Passing the quiz is required to unlock Module 3
+Attempts and passing criteria follow platform rules
+🔹 Module 3: Trees and Graphs
+Module Objective:
+Provide an understanding of non-linear data structures and how relationships between data elements are represented.
+Lessons Included
+Lesson 1: Tree Basics
+Hierarchical data representation
+Parent-child relationships
+Common examples of tree usage
+Lesson 2: Graph Fundamentals
+Representation of nodes and connections
+Directed and undirected graphs
+Real-world relationship modeling
+Module Assessment
+Module Quiz 3
+Completion is required to unlock the final assessment
+Final Assessment (Course Level)
+The Final Assessment becomes available only after:
+All modules are completed
+All module quizzes are passed
+Clearing the final assessment is mandatory for course completion
+Assessment questions, answers, and evaluation logic are not disclosed in documentation
+Progress Tracking (Course-Specific)
+For the Data Structures & Algorithms course, learners can track:
+Lesson completion per module
+Quiz pass/fail status
+Module completion status
+Final assessment completion
+Overall course progress percentage
+Progress updates automatically as learners complete required activities.
+Certification Eligibility (Course-Specific)
+Learners are eligible for the Data Structures & Algorithms Certificate only after:
+Completing all modules
+Passing all module quizzes
+Clearing the final assessment
+Certificate issuance follows the standard SmartLearn certification workflow.
+Course Limitations
+For this course:
+No coding solutions are provided
+No algorithm implementations are shared
+No hints or sample problem answers are available
+No performance optimization guidance beyond conceptual explanation
+Course Documentation Scope
+This section provides the complete workflow documentation for the Data Structures & Algorithms course.
+Any information not explicitly mentioned here is considered out of scope.
+
+
+
+
+Course 3: Python for Beginners
+Course Overview
+Course Name: Python for Beginners
+This course is designed to introduce learners to the fundamentals of Python programming. The focus is on understanding basic programming concepts, Python syntax structure, and common programming workflows at a beginner level.
+The course follows a structured, module-based learning process with mandatory assessments required to progress and complete the course.
+Course Duration & Structure
+Total Modules: 2
+Learning Mode: Self-paced
+Module Access: Sequential
+Final Assessment: Mandatory for certification
+Module Breakdown
+🔹 Module 1: Python Basics
+Module Objective:
+Introduce learners to the core building blocks of Python and basic programming logic.
+Lessons Included
+Lesson 1: Python Syntax
+Structure of Python programs
+Basic syntax rules
+Writing and organizing Python code
+Lesson 2: Variables and Data Types
+Purpose of variables
+Common data types
+Data storage concepts
+Lesson 3: Control Flow
+Conditional statements
+Looping constructs
+Execution flow in programs
+Module Assessment
+Module Quiz 1
+Quiz must be passed to unlock Module 2
+Assessment rules follow platform-wide guidelines
+🔹 Module 2: Functions and Modules
+Module Objective:
+Explain how programs are structured using reusable components in Python.
+Lessons Included
+Lesson 1: Functions
+Purpose of functions
+Defining and using functions
+Function inputs and outputs
+Lesson 2: Modules and Packages
+Organizing code into modules
+Using built-in and external modules
+Code reuse concepts
+Module Assessment
+Module Quiz 2
+Completion is required to unlock the final assessment
+Final Assessment (Course Level)
+The Final Assessment becomes available only after:
+All modules are completed
+All module quizzes are passed
+Passing the final assessment is mandatory for course completion
+Assessment content and solutions are not provided in documentation
+Progress Tracking (Course-Specific)
+For the Python for Beginners course, learners can track:
+Lesson completion status
+Quiz pass/fail status
+Module completion status
+Final assessment completion
+Overall course progress percentage
+Progress updates automatically as learners complete required lessons and assessments.
+Certification Eligibility (Course-Specific)
+Learners are eligible for the Python for Beginners Certificate only after:
+Completing all modules
+Passing all module quizzes
+Successfully clearing the final assessment
+Certificate issuance follows the standard SmartLearn certification workflow.
+Course Limitations
+For this course:
+No coding solutions are provided
+No step-by-step programming answers are shared
+No debugging assistance is available
+No personalized learning recommendations are given
+Course Documentation Scope
+This section provides the complete workflow documentation for the Python for Beginners course.
+Any information not explicitly mentioned here is considered out of scope.
+
+
+
+
+Course 4: Introduction to Cloud Computing
+Course Overview
+Course Name: Introduction to Cloud Computing
+This course is designed to help learners understand the foundational concepts of cloud computing and how cloud-based systems are structured and delivered. The course focuses on conceptual understanding of cloud models, deployment types, and service workflows rather than hands-on configuration or implementation.
+The course follows a structured, module-based learning workflow with mandatory assessments required for course completion.
+Course Duration & Structure
+Total Modules: 2
+Learning Mode: Self-paced
+Module Access: Sequential
+Final Assessment: Mandatory for certification
+Module Breakdown
+🔹 Module 1: Cloud Fundamentals
+Module Objective:
+Introduce learners to the basic concepts and terminology of cloud computing.
+Lessons Included
+Lesson 1: What is Cloud Computing
+Definition and purpose of cloud computing
+Differences between traditional and cloud-based systems
+High-level overview of cloud infrastructure
+Lesson 2: Cloud Service Models
+Overview of Infrastructure as a Service (IaaS)
+Overview of Platform as a Service (PaaS)
+Overview of Software as a Service (SaaS)
+Module Assessment
+Module Quiz 1
+Passing the quiz is mandatory to unlock Module 2
+Assessment rules follow platform-wide guidelines
+🔹 Module 2: Cloud Deployment Models
+Module Objective:
+Explain how cloud services are deployed and managed across different environments.
+Lessons Included
+Lesson 1: Public Cloud
+Characteristics of public cloud environments
+Typical use cases
+Shared infrastructure concepts
+Lesson 2: Private Cloud
+Characteristics of private cloud environments
+Controlled access models
+Organizational use cases
+Lesson 3: Hybrid Cloud
+Combination of public and private cloud models
+Data and workload distribution concepts
+Integration considerations
+Module Assessment
+Module Quiz 2
+Completion is required to unlock the final assessment
+Final Assessment (Course Level)
+The Final Assessment becomes available only after:
+All modules are completed
+All module quizzes are passed
+Passing the final assessment is mandatory for course completion
+Assessment questions and answers are not disclosed in documentation
+Progress Tracking (Course-Specific)
+For the Introduction to Cloud Computing course, learners can track:
+Lesson completion per module
+Quiz pass/fail status
+Module completion status
+Final assessment completion
+Overall course completion percentage
+Progress updates automatically as learners complete required activities.
+Certification Eligibility (Course-Specific)
+Learners are eligible for the Introduction to Cloud Computing Certificate only after:
+Completing all modules
+Passing all module quizzes
+Successfully clearing the final assessment
+Certificate issuance follows the standard SmartLearn certification workflow.
+Course Limitations
+For this course:
+No cloud service configuration steps are provided
+No provider-specific tutorials are included
+No assessment answers or hints are shared
+No infrastructure setup guidance is given
+Course Documentation Scope
+This section provides the complete workflow documentation for the Introduction to Cloud Computing course.
+Any information not explicitly mentioned here is considered out of scope.
