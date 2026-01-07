@@ -63,7 +63,8 @@ if prompt := st.chat_input("Type your question here..."):
 
         try:
             response = requests.post(
-                "https://psychic-computing-machine-qrp7gq5xvgqh679w-5000.app.github.dev/ask",
+                # "https://psychic-computing-machine-qrp7gq5xvgqh679w-5000.app.github.dev/ask",
+                "https://hackathon-vcube.onrender.com/ask",
                 json={"query": prompt},
                 timeout=60
             )
