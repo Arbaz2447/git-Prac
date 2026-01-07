@@ -50,3 +50,77 @@ git tag -d v1.0            # Delete a tag
 
 ⭐ Emergency / ExtrasBashgit merge --abort          # Cancel a merge conflict in progress
 git reset --hard HEAD      # ⚠️ DANGER: Delete ALL local changes/commits
+
+
+
+
+
+
+
+✅ SCENARIO 1: You want to keep your changes
+👉 Use stash (BEST & SAFE)
+git stash
+git pull origin main
+git stash pop
+✔ Nothing lost
+✔ Clean pull
+✔ MOST COMMON method
+✅ SCENARIO 2: You want to discard your local changes
+👉 Just reset
+git restore .
+git pull origin main
+✔ All uncommitted changes gone
+✔ Fresh code from remote
+
+
+
+
+
+======================
+GIT – MINIMAL CHEAT FILE
+======================
+
+# Clone repo
+git clone <repo-url>
+
+# Check status
+git status
+
+# Pull latest changes
+git pull
+
+# Stage changes
+git add .
+git add file
+
+# Commit
+git commit -m "message"
+
+# Push changes
+git push
+
+# Switch branches
+git switch branch
+git switch -c new-branch
+
+# Save work temporarily
+git stash
+git stash pop
+
+# Discard local changes
+git restore .
+git reset --hard HEAD
+
+# Unstage files
+git restore --staged file
+git restore --staged .
+
+# View history
+git log --oneline
+
+# Fix last commit
+git commit --amend
+
+# Check remotes
+git remote -v
+======================
