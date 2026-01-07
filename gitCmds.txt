@@ -73,3 +73,94 @@ git restore --staged filename
 
 Git Stash vs commit in pull :
 you save the worked data in branch (local) and you have 2 options , -> 1 . stash them  pull and apply the worked changes (not saved )them on latest remote data  and reslove .  -> 2 .  commit (worked temp  changes) you commit and pull and later merge ! when you are sure abt worked data you commit and pull , when unsure stash and pull ! 
+
+
+
+
+
+git switch branch        # change branch
+git restore --staged file # undo a file from staging index 
+
+
+discard unsaved changes and move to latest commit ---> ( git reset --hard HEAD ||  git restore file )         # discard changes
+say if i mistakenly commit , undo commit dont discard anything -> git reset --soft HEAD~1
+say i want to totally delete commit and changes  -> git reset --hard HEAD~1
+
+
+
+
+✅ SCENARIO 1: You want to keep your changes
+👉 Use stash (BEST & SAFE)
+git stash
+git pull origin main
+git stash pop
+✔ Nothing lost
+✔ Clean pull
+✔ MOST COMMON method
+✅ SCENARIO 2: You want to discard your local changes
+👉 Just reset
+git restore .
+git pull origin main
+✔ All uncommitted changes gone
+✔ Fresh code from remote
+
+
+
+
+
+======================
+GIT – MINIMAL CHEAT FILE
+======================
+
+# Clone repo
+git clone <repo-url>
+
+# Check status
+git status
+
+# Pull latest changes
+git pull
+
+# Stage changes
+git add .
+git add file
+
+# Commit
+git commit -m "message"
+
+# Push changes
+git push
+
+# Switch branches
+git switch branch
+git switch -c new-branch
+
+# Save work temporarily
+git stash
+git stash pop
+
+# Discard local changes
+git restore .
+git reset --hard HEAD
+
+# Unstage files
+git restore --staged file
+git restore --staged .
+
+# View history
+git log --oneline
+
+# Fix last commit
+git commit --amend
+
+# Check remotes
+git remote -v
+======================
+
+
+
+
+
+
+
+
