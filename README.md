@@ -123,4 +123,7 @@ git commit --amend
 
 # Check remotes
 git remote -v
+
+# create or delete remotes 
+git remote add <remote-name> and git remote remove <remote-name>/
 ======================
